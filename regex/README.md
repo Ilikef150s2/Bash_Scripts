@@ -53,3 +53,8 @@ Quantifiers:
 
 
 [a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+
+
+
+#### Good references arer located here:
+
+https://www.youtube.com/watch?v=sa-TUpSx1JA
